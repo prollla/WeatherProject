@@ -9,6 +9,6 @@
 
 ## Авторы
 
-*[Маслов Антон](https://github.com/prollla)
-*[Карпов Даниил](https://github.com/HAZZI36)
-*[Лысенко Владислав](https://github.com/prollla)
+* [Маслов Антон](https://github.com/prollla)
+* [Карпов Даниил](https://github.com/HAZZI36)
+* [Лысенко Владислав](https://github.com/prollla)
