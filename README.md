@@ -14,7 +14,7 @@
 
 ## Ссылки
 
-* [Trello]()
+* [Task manage Kaiten](https://skullboy.kaiten.ru/space/129428)
 * [Miro]()
 * [Техническое задание]()
 * [Диаграмы]()
