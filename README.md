@@ -15,7 +15,7 @@
 ## Ссылки
 
 * [Trello](https://trello.com/b/8p3AaO2b/weatherproject)
-* [Miro]()
+* [Miro](https://miro.com/app/board/uXjVMabYd24=/)
 * [Техническое задание]()
 * [Диаграмы]()
 
