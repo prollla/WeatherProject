@@ -12,7 +12,7 @@
 * [Карпов Даниил](https://github.com/HAZZI36)
 * [Лысенко Владислав](https://github.com/prollla)
 
-##Ссылки
+## Ссылки
 
 * [Trello]()
 * [Miro]()
