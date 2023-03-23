@@ -14,7 +14,7 @@
 
 ## Ссылки
 
-* [Task manage Kaiten](https://skullboy.kaiten.ru/space/129428)
+* [Trello](https://trello.com/b/8p3AaO2b/weatherproject)
 * [Miro]()
 * [Техническое задание]()
 * [Диаграмы]()
