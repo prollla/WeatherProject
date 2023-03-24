@@ -16,6 +16,6 @@
 
 * [Trello](https://trello.com/b/8p3AaO2b/weatherproject)
 * [Miro](https://miro.com/app/board/uXjVMabYd24=/)
-* [Техническое задание]()
-* [Диаграмы]()
+* [Техническое задание](https://github.com/prollla/WeatherProject/tree/main/Documentation)
+* [Диаграмы](https://github.com/prollla/WeatherProject/tree/main/Documentation)
 
