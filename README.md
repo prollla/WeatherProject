@@ -19,3 +19,8 @@
 * [Техническое задание](https://github.com/prollla/WeatherProject/tree/main/Documentation)
 * [Диаграмы](https://github.com/prollla/WeatherProject/tree/main/Documentation)
 
+
+
+## Макет приложения
+
+* [Figma](https://www.figma.com/file/9jHZDmoYf1ju91672ESytp/WeatherProject?node-id=0-1&t=lSWECOgJp5LcTb8r-0)
