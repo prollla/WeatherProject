@@ -27,4 +27,4 @@
 
 ## Макет приложения
 
-* [Figma](https://www.figma.com/file/9jHZDmoYf1ju91672ESytp/WeatherProject?node-id=0-1&t=lSWECOgJp5LcTb8r-0)
+* [Figma](https://www.figma.com/file/V0xdpbaFKpEegoxoUzdSbP/Untitled?type=design&node-id=0-1&t=AVPWpk5GX78fCF9g-0)
