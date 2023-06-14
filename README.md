@@ -19,7 +19,7 @@
 * [Trello](https://trello.com/b/8p3AaO2b/weatherproject)
 * [Miro](https://miro.com/app/board/uXjVMabYd24=/)
 * [Техническое задание](https://github.com/prollla/WeatherProject/tree/main/Documentation)
-* [Диаграмы](https://github.com/prollla/WeatherProject/tree/main/Documentation)
+* [Диаграммы](https://github.com/prollla/WeatherProject/tree/main/Documentation)
 * [Swagger](https://weatherprollla-production.up.railway.app/api-docs/)
 * [Аналитика проекта](https://metrika.yandex.ru/dashboard?group=dekaminute&period=today&id=93957249)
 * [Обзор клиента, севрера, развёртки](https://www.youtube.com/watch?v=L2qZIGz7Asc&ab_channel=%D0%92%D0%B0%D0%BB%D0%B5%D1%80%D0%B0%D0%96%D0%BC%D1%8B%D1%88%D0%B5%D0%BD%D0%BA%D0%BE)
