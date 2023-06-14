@@ -6,11 +6,11 @@
  * Рекомендации по выбору одежды, осованные на полученном прогнозе погоды.
  * Почасовая погода для более комфортного планирования своего дня.
 
-Актуальная ссылка на проект : https://v4-production-e27b.up.railway.app/index.html
+Актуальная ссылка на проект : https://weatherprollla-production.up.railway.app
 Для запуска проекта локально, нужно установить зависимости. Cделать это можно с помощью команды npm i
 ## Авторы
 
-* [Маслов Антон](https://github.com/prollla)
+* [Маслов Антон](https://github.com/prollla) - front+back
 * [Карпов Даниил](https://github.com/HAZZI36)
 * [Лысенко Владислав](https://github.com/IzolentaKod)
 
@@ -20,6 +20,7 @@
 * [Miro](https://miro.com/app/board/uXjVMabYd24=/)
 * [Техническое задание](https://github.com/prollla/WeatherProject/tree/main/Documentation)
 * [Диаграмы](https://github.com/prollla/WeatherProject/tree/main/Documentation)
+* [Swagger](https://weatherprollla-production.up.railway.app/api-docs/)
 
 
 
