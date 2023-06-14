@@ -21,6 +21,7 @@
 * [Техническое задание](https://github.com/prollla/WeatherProject/tree/main/Documentation)
 * [Диаграмы](https://github.com/prollla/WeatherProject/tree/main/Documentation)
 * [Swagger](https://weatherprollla-production.up.railway.app/api-docs/)
+* [Аналитика проекта](https://metrika.yandex.ru/dashboard?group=dekaminute&period=today&id=93957249)
 
 
 
