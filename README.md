@@ -11,7 +11,7 @@
 ## Авторы
 
 * [Маслов Антон](https://github.com/prollla) - front+back.
-* [Карпов Даниил](https://github.com/HAZZI36)
+* [Карпов Даниил](https://github.com/HAZZI36) - Курсовая работа, презентация, оформление плана работы
 * [Лысенко Владислав](https://github.com/IzolentaKod) - тестирование, диаграммы, макет Figma.
 
 ## Ссылки
